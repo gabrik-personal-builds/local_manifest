@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="gbuild" fetch="https://github.com/gabrik-personal-builds"/>
+  <project path="kernel/xiaomi/msm8917" name="android_kernel_xiaomi_msm8917" revision="lineage-17.1" remote="gbuild"/>
+
+  <project path="device/xiaomi/rolex" name="android_device_xiaomi_rolex" revision="lineage-17.1" remote="gbuild"/>
+
+  <project path="vendor/xiaomi" name="android_vendor_xiaomi" revision="lineage-17.1" remote="gbuild"/>
+
+  <project path="vendor/qcom/opensource/power" name="android_vendor_qcom-opensource_power" revision="quartz" remote="gbuild"/>
+</manifest>
