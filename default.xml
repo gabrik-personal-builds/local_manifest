@@ -7,5 +7,5 @@
 
   <project path="vendor/xiaomi" name="android_vendor_xiaomi" revision="lineage-17.1" remote="gbuild"/>
 
-  <project path="vendor/qcom/opensource/power" name="android_vendor_qcom-opensource_power" revision="quartz" remote="gbuild"/>
+  <!-- <project path="vendor/qcom/opensource/power" name="android_vendor_qcom-opensource_power" revision="quartz" remote="gbuild"/> -->
 </manifest>
